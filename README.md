@@ -1,2 +1,2 @@
 # nf_tables_lpe
-Pwn2Own Vancouver 2022 exploits of Linux Kernel 
+Exploits for multiple vulnerabilities in Netfilter's `nf_table` kernel module used in Pwn2Own Vancouver 2022.
